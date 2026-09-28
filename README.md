@@ -3,7 +3,7 @@
 **DSxHE × Cancer Research UK Tutorial Series**
 **Presenter:** Ahwaz Akhtar, PhD, Health Economist, George Washington University
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/dcea-workshop/blob/main/dcea_workshop_exercise.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahwazakhtar/dcea-workshop/blob/main/dcea_workshop_exercise.ipynb)
 
 Distributional cost-effectiveness analysis (DCEA) asks not only *how much* health a programme produces for its cost, but *whose* health improves and who bears the costs. This repository holds the hands-on exercise for the workshop: an R notebook that runs in Google Colab with nothing to install.
 
