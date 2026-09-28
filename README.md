@@ -50,3 +50,7 @@ Slides and the session recording will be posted after the workshop.
 - **York Health Equity Impact Calculator data** © University of York, MIT licence ([`data/york_LICENSE.md`](data/york_LICENSE.md)). Love-Koh J, Schneider P, Cookson R (2022). *York health equity impact calculator.* University of York. <https://shiny.york.ac.uk/dceasimple>. Source: <https://github.com/bitowaqr/dcea>
 - **Health Inequality Project data**, CC0. Chetty R, Stepner M, Abraham S, et al. (2016). The association between income and life expectancy in the United States, 2001–2014. *JAMA* 315(16):1750–1766. <https://healthinequality.org/data/>
 - Screening uptake, costs and effects, and the fairness-adjustment data are taken from Asaria, Griffin & Cookson (2016).
+
+## Licence
+
+The workshop materials in this repository are released under the [MIT Licence](LICENSE) © 2026 Ahwaz Akhtar. The third-party datasets in `data/` keep their own licences: the York data under its MIT licence (© University of York) and the Health Inequality Project data under CC0.
