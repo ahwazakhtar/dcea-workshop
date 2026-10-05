@@ -12,17 +12,19 @@ Distributional cost-effectiveness analysis (DCEA) asks not only *how much* healt
 ## Getting started
 
 1. Click **Open in Colab** above and sign in to a Google account.
-2. Choose **File → Save a copy in Drive**, so your work is saved.
+2. Choose **File → Save a copy in Drive** and work in your copy. The shared notebook can't save your edits.
 3. The notebook opens in Colab's **R** runtime. If it doesn't, use **Runtime → Change runtime type → R**.
-4. Work through the five sections. Each has a short TODO, a self-check and a worked solution.
+4. Run the set-up cell, then work through the five sections. Each **Your turn** cell shows the target result and has a self-check. If you skip one, the cells after it still run.
 
-No CEA background is needed. Some R familiarity helps, but every exercise has a solution you can run instead.
+No CEA background is needed. In the workshop we go through the notebook together as a code-along. A solutions notebook will be added here after the session.
 
 ## What's here
 
 | Path | Contents |
 |---|---|
-| `dcea_workshop_exercise.ipynb` | The hands-on exercise (R; base R only) |
+| `dcea_workshop_exercise.ipynb` | The code-along notebook (R; base R only) |
+| `R/dcea_helpers.R` | Worked versions of the TODO functions, loaded by the notebook's set-up cell so later sections run even if a TODO is unfinished. Try the TODOs before reading it! |
+| `figures/` | Target-result images shown in the notebook |
 | `data/` | Local copies of the public datasets the notebook uses, with sources, licences and known issues (see [`data/README.md`](data/README.md)) |
 
 Slides and the session recording will be posted after the workshop.
